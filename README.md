@@ -24,5 +24,5 @@
 
 😈 ls 
 
-😈 python2 KartikX5.py
+😈 python2 KARTIKX5.py
 
